@@ -1,0 +1,14 @@
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\bin\Debug\net7.0\csharp-docs.exe
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\bin\Debug\net7.0\csharp-docs.deps.json
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\bin\Debug\net7.0\csharp-docs.runtimeconfig.json
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\bin\Debug\net7.0\csharp-docs.dll
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\bin\Debug\net7.0\csharp-docs.pdb
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.AssemblyInfo.cs
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.dll
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\refint\csharp-docs.dll
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.pdb
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\csharp-docs.genruntimeconfig.cache
+C:\Users\dev\Desktop\estudos programacao\dotnet\csharp-docs\obj\Debug\net7.0\ref\csharp-docs.dll
